@@ -19,7 +19,7 @@
 
 AI Engineer and Data Scientist at [DEPT®](https://www.deptagency.com) in Berlin, working on LLM systems, ML pipelines, and AI products for creative and business use cases.
 
-Background spans a decade across marketing, product, and data science — which means I care as much about whether something works for the business as whether it works technically. Previously at rebuy, Constructor Group, and Google (APAC), with independent consulting across retail, geospatial analytics, and conversational AI.
+Background spans a decade across marketing, product, and data science - which means I care as much about whether something works for the business as whether it works technically. Previously at rebuy, Constructor Group, and Google (APAC), with independent consulting across retail, geospatial analytics, and conversational AI.
 
 - 🔭 Currently building LLM-powered products and PoCs at DEPT®
 - 🧠 Interested in applied AI, critical evaluation of LLM outputs, and the gap between AI hype and useful AI
@@ -32,7 +32,9 @@ Background spans a decade across marketing, product, and data science — which 
 
 #### Languages & core ML
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
 #### ML & AI frameworks
@@ -47,7 +49,8 @@ Background spans a decade across marketing, product, and data science — which 
 
 #### Data & pipelines
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
@@ -55,7 +58,9 @@ Background spans a decade across marketing, product, and data science — which 
 
 #### Tools & environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode,linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white" />
 </p>
@@ -65,7 +70,7 @@ Background spans a decade across marketing, product, and data science — which 
 ### GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajkarak&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=surajkarak&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true&cache_seconds=1800" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkarak&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
 </p>
 
